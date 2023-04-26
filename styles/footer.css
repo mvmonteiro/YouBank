@@ -40,6 +40,12 @@
     font-weight: 700;
 }
 
+.imagem-likedin {
+    background-color: white;
+    border-radius: 5%;
+    width: 35px;
+}
+
 @media screen and (max-width: 798px) {
     .rodape {
         display: block;
